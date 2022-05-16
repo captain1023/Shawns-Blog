@@ -1,0 +1,220 @@
+[
+  {
+    id: 4131599306,
+    node_id: 'LA_kwDOHVgLVM72QzPK',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/:+1:%E7%BD%AE%E9%A1%B6',
+    name: ':+1:置顶',
+    color: 'f9d0c4',
+    default: false,
+    description: ''
+  },
+  {
+    id: 4131599776,
+    node_id: 'LA_kwDOHVgLVM72QzWg',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/:framed_picture:%E5%B0%81%E9%9D%A2',
+    name: ':framed_picture:封面',
+    color: '81C186',
+    default: false,
+    description: ''
+  },
+  {
+    id: 4131590998,
+    node_id: 'LA_kwDOHVgLVM72QxNW',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/css',
+    name: 'css',
+    color: 'd73a4a',
+    default: false,
+    description: "Something isn't working"
+  },
+  {
+    id: 4131591000,
+    node_id: 'LA_kwDOHVgLVM72QxNY',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/documentation',
+    name: 'documentation',
+    color: '0075ca',
+    default: true,
+    description: 'Improvements or additions to documentation'
+  },
+  {
+    id: 4131591002,
+    node_id: 'LA_kwDOHVgLVM72QxNa',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/duplicate',
+    name: 'duplicate',
+    color: 'cfd3d7',
+    default: true,
+    description: 'This issue or pull request already exists'
+  },
+  {
+    id: 4131591004,
+    node_id: 'LA_kwDOHVgLVM72QxNc',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/enhancement',
+    name: 'enhancement',
+    color: 'a2eeef',
+    default: true,
+    description: 'New feature or request'
+  },
+  {
+    id: 4131591007,
+    node_id: 'LA_kwDOHVgLVM72QxNf',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/good%20first%20issue',
+    name: 'good first issue',
+    color: '7057ff',
+    default: true,
+    description: 'Good for newcomers'
+  },
+  {
+    id: 4131591005,
+    node_id: 'LA_kwDOHVgLVM72QxNd',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/help%20wanted',
+    name: 'help wanted',
+    color: '008672',
+    default: true,
+    description: 'Extra attention is needed'
+  },
+  {
+    id: 4131591008,
+    node_id: 'LA_kwDOHVgLVM72QxNg',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/invalid',
+    name: 'invalid',
+    color: 'e4e669',
+    default: true,
+    description: "This doesn't seem right"
+  },
+  {
+    id: 4131591011,
+    node_id: 'LA_kwDOHVgLVM72QxNj',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/question',
+    name: 'question',
+    color: 'd876e3',
+    default: true,
+    description: 'Further information is requested'
+  },
+  {
+    id: 4131591013,
+    node_id: 'LA_kwDOHVgLVM72QxNl',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/wontfix',
+    name: 'wontfix',
+    color: 'ffffff',
+    default: true,
+    description: 'This will not be worked on'
+  },
+  {
+    id: 4131600112,
+    node_id: 'LA_kwDOHVgLVM72Qzbw',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/%E5%BC%80%E6%BA%90',
+    name: '开源',
+    color: 'C2CD27',
+    default: false,
+    description: ''
+  }
+]
+[
+  {
+    id: 4131599306,
+    node_id: 'LA_kwDOHVgLVM72QzPK',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/:+1:%E7%BD%AE%E9%A1%B6',
+    name: ':+1:置顶',
+    color: 'f9d0c4',
+    default: false,
+    description: ''
+  },
+  {
+    id: 4131599776,
+    node_id: 'LA_kwDOHVgLVM72QzWg',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/:framed_picture:%E5%B0%81%E9%9D%A2',
+    name: ':framed_picture:封面',
+    color: '81C186',
+    default: false,
+    description: ''
+  },
+  {
+    id: 4131590998,
+    node_id: 'LA_kwDOHVgLVM72QxNW',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/css',
+    name: 'css',
+    color: 'd73a4a',
+    default: false,
+    description: "Something isn't working"
+  },
+  {
+    id: 4131591000,
+    node_id: 'LA_kwDOHVgLVM72QxNY',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/documentation',
+    name: 'documentation',
+    color: '0075ca',
+    default: true,
+    description: 'Improvements or additions to documentation'
+  },
+  {
+    id: 4131591002,
+    node_id: 'LA_kwDOHVgLVM72QxNa',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/duplicate',
+    name: 'duplicate',
+    color: 'cfd3d7',
+    default: true,
+    description: 'This issue or pull request already exists'
+  },
+  {
+    id: 4131591004,
+    node_id: 'LA_kwDOHVgLVM72QxNc',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/enhancement',
+    name: 'enhancement',
+    color: 'a2eeef',
+    default: true,
+    description: 'New feature or request'
+  },
+  {
+    id: 4131591007,
+    node_id: 'LA_kwDOHVgLVM72QxNf',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/good%20first%20issue',
+    name: 'good first issue',
+    color: '7057ff',
+    default: true,
+    description: 'Good for newcomers'
+  },
+  {
+    id: 4131591005,
+    node_id: 'LA_kwDOHVgLVM72QxNd',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/help%20wanted',
+    name: 'help wanted',
+    color: '008672',
+    default: true,
+    description: 'Extra attention is needed'
+  },
+  {
+    id: 4131591008,
+    node_id: 'LA_kwDOHVgLVM72QxNg',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/invalid',
+    name: 'invalid',
+    color: 'e4e669',
+    default: true,
+    description: "This doesn't seem right"
+  },
+  {
+    id: 4131591011,
+    node_id: 'LA_kwDOHVgLVM72QxNj',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/question',
+    name: 'question',
+    color: 'd876e3',
+    default: true,
+    description: 'Further information is requested'
+  },
+  {
+    id: 4131591013,
+    node_id: 'LA_kwDOHVgLVM72QxNl',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/wontfix',
+    name: 'wontfix',
+    color: 'ffffff',
+    default: true,
+    description: 'This will not be worked on'
+  },
+  {
+    id: 4131600112,
+    node_id: 'LA_kwDOHVgLVM72Qzbw',
+    url: 'https://api.github.com/repos/captain1023/newBlog/labels/%E5%BC%80%E6%BA%90',
+    name: '开源',
+    color: 'C2CD27',
+    default: false,
+    description: ''
+  }
+]
