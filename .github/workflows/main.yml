@@ -1,8 +1,6 @@
 name: update
 
 on: [issues, issue_comment]
-  workflow_dispatch:
-
 
 jobs:
   build:
