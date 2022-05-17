@@ -15,7 +15,7 @@ jobs:
     - name: run node script
       env:
         GITHUB_LOGIN: captain1023
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.blog }}
       run: node script.js
     - name: config git info
       run: |
@@ -29,7 +29,7 @@ jobs:
     - name: push change
       env:
         GITHUB_LOGIN: captain1023
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.blog }}
       run: |
         git push https://$GITHUB_LOGIN:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
     - name: done
