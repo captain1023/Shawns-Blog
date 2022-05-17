@@ -11,8 +11,7 @@ jobs:
     - name: install dependencies
       with:
         node-version: '14.x'
-      run: |
-          npm install
+      run: npm install -g
 
     - name: run node script
       env:
