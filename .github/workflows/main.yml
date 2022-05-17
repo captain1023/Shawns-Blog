@@ -12,7 +12,6 @@ jobs:
       with:
         node-version: '14.x'
       run: npm install -g
-
     - name: run node script
       env:
         GITHUB_LOGIN: captain1023
