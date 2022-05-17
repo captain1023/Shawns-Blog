@@ -8,7 +8,7 @@ const token = "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"
 let blog;
 let labels;
 let username = 'captain1023'
-let repo = 'newBlog'
+let repo = 'Shawns-Blog'
 /**
  * 从命令行拿到access token,username,repo
  */
@@ -23,12 +23,12 @@ function login(){
 
 async function getIssues(){
     //TODO:需要从Issues中根据pull_request把pull的request过滤出来
-    let issues = await service.getIssues('captain1023','newBlog')
+    let issues = await service.getIssues('captain1023',repo)
     blog = issues
 }
 
 async function getLables(){
-    let res = await service.getLables('captain1023','newBlog')
+    let res = await service.getLables('captain1023',repo)
     labels = res
     console.log(labels)
 }
